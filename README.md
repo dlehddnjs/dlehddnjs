@@ -40,7 +40,7 @@
   </a>
 </p>
 
-`React Native` · `TypeScript` · `SQLite` &nbsp;|&nbsp; [개인정보처리방침](https://github.com/dlehddnjs/orot-privacy)
+`React Native` · `TypeScript` · `SQLite` &nbsp;|&nbsp; [개인정보처리방침](https://getorot.app/privacy.html)
 
 ---
 
