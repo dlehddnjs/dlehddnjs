@@ -1,29 +1,29 @@
-<h1 align="center">안녕하세요 👋</h1>
+<h1 align="center">dlehddnjs</h1>
 
-<p align="center">
-  여러 플랫폼·서비스 회사에서 <b>React Native · 프론트엔드</b> 개발자로 일하며<br/>
-  팀원과 리드를 두루 맡아왔습니다. 지금은 슬로우 저널 앱 <b>오롯</b>을 직접 만들어 운영합니다.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Reanimated-001A72?style=flat-square" alt="Reanimated"/>
-  <img src="https://img.shields.io/badge/FlashList-00C4B4?style=flat-square" alt="FlashList"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Fastlane-555555?style=flat-square" alt="Fastlane"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-</p>
+<p align="center"><i>React Native · Mobile Product Engineer</i></p>
 
 ---
 
-### 📱 대표 프로젝트
+Android에서 출발해 React Native 생태계로 범위를 넓혀온 모바일·프론트엔드 엔지니어입니다. 주로 플랫폼·서비스 제품에서 복잡해진 레거시 코드를 안정적인 타입과 명확한 도메인 기준으로 정리하고, 배포 자동화와 지표 계측을 정착시켜 팀의 개발 생산성을 끌어올리는 일을 해왔습니다.
 
-#### 🌿 오롯 (Orot) — Slow Journal
+1인 개발의 빠른 초기 런칭부터 서비스 확장기의 React Native 리드까지 경험하며, 화면 구현에 머무르지 않고 한정된 리소스 안에서 가장 실용적인 선택으로 **사용자 경험을 개선하고 제품·비즈니스의 성장에 기여**하는 것을 중요하게 생각합니다. 지금은 슬로우 저널 앱 **오롯**을 기획부터 운영까지 직접 만들고 있습니다.
+
+---
+
+### 기술 스택
+
+|                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**             | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **State & Data**     | ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)                                                                                                                                               |
+| **UI & Performance** | ![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=flat-square) ![FlashList](https://img.shields.io/badge/FlashList-00C4B4?style=flat-square)                                                                                                                                                                                                                                                                                    |
+| **Build & Ops**      | ![Fastlane](https://img.shields.io/badge/Fastlane-555555?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)                                                                                                                                                                                                                                                            |
+
+---
+
+### 대표 프로젝트
+
+#### 오롯 (Orot) — Slow Journal
 
 > **행복은 강도가 아니라 빈도**라는 가설에서 출발한 사진 저널 앱.
 > 사진 한 장과 짧은 메모로 한 시즌에 100개의 순간을 모으면 시즌이 끝나는 구조입니다. 기획부터 출시까지 직접 만들고, 지금도 사용자 피드백을 반영해 다듬고 있습니다.
@@ -42,19 +42,21 @@
 
 `React Native` · `TypeScript` · `SQLite` &nbsp;|&nbsp; [개인정보처리방침](https://getorot.app/privacy.html)
 
+#### ClearDays — 피부 트러블 추적
+
+> 매일 피부 상태·식단·생활습관을 기록하면 어떤 음식·습관이 트러블에 영향을 주는지 분석해 주는 일일 추적 앱.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=kr.simplefunction.cleardays">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+</p>
+
+`React Native` · `TypeScript`
+
 ---
 
-### 🧪 다른 프로젝트
-
-| 프로젝트                                                        | 설명                                                                                 | 스택        |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------- |
-| [**ClearDays**](https://github.com/dlehddnjs/clear-days)        | 피부 트러블 트리거를 찾아주는 일일 추적 앱 — 식단·생활습관을 기록해 영향 요인을 분석 | `RN` · `TS` |
-| [**ShopScan**](https://github.com/dlehddnjs/ShopScan)           | 쇼핑몰 상품 URL을 입력하면 상품 정보를 추출해 저장·비교하는 앱                       | `RN` · `TS` |
-| [**rn-playground**](https://github.com/dlehddnjs/rn-playground) | React Native 컴포넌트 · 제스처 인터랙션 · SVG 시각화 실험 저장소                     | `RN` · `TS` |
-
----
-
-### 🔗 링크
+### 링크
 
 <p>
   <a href="https://velog.io/@simplefunction">
@@ -67,9 +69,8 @@
 
 ---
 
-### 📊 GitHub 통계
+### 주력 언어
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-chi-six-32.vercel.app/api?username=dlehddnjs&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats-chi-six-32.vercel.app/api/top-langs/?username=dlehddnjs&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 </p>
