@@ -1,6 +1,4 @@
-<h1 align="center">dlehddnjs</h1>
-
-<p align="center"><i>React Native · Mobile Product Engineer</i></p>
+<h1 align="center">React Native · Mobile Product Engineer</h1>
 
 ---
 
