@@ -70,6 +70,6 @@
 ### 📊 GitHub 통계
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dlehddnjs&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlehddnjs&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-chi-six-32.vercel.app/api?username=dlehddnjs&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-chi-six-32.vercel.app/api/top-langs/?username=dlehddnjs&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 </p>
