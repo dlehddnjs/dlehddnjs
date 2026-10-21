@@ -43,11 +43,43 @@ Android에서 출발해 React Native 생태계로 범위를 넓혀온 모바일�
 
 ---
 
+### 실험실 — simplefunction.lab
+
+> 폰에서 가지고 노는 작은 인터랙티브 작업을 만들어, 한 달에 하나 이상 올립니다.
+
+<a href="https://groove-skater.vercel.app/"><img src="https://simplefunction-lab.github.io/projects/groove-skater/poster.jpg" width="220" align="right" alt="Groove Skater"/></a>
+
+#### Groove Skater
+
+> 돌아가는 레코드 위의 작은 스케이터가 바늘이 되는 웹페이지입니다. 스케이터가 달리는 자리가 곧 들리는 소리라서, 판과 같은 방향으로 달리면 곡이 거꾸로 재생되고 점프하면 바늘이 들립니다. PLAY를 누르면 모터가 꺼지고, 박자에 맞춰 판을 밀어 곡을 살려야 합니다.
+> Bénédict Aubry의 모션 작품 "Roller"(Motiontober 2026)를 원작자의 허락을 받아 인터랙티브로 옮겼습니다.
+
+<p>
+  <a href="https://groove-skater.vercel.app/">
+    <img src="https://img.shields.io/badge/Play-Groove_Skater-2F45DE?style=for-the-badge" alt="Play Groove Skater"/>
+  </a>
+  <a href="https://simplefunction-lab.github.io/">
+    <img src="https://img.shields.io/badge/Lab-simplefunction--lab.github.io-1D2622?style=for-the-badge" alt="simplefunction-lab.github.io"/>
+  </a>
+  <a href="https://www.instagram.com/simplefunction.lab/">
+    <img src="https://img.shields.io/badge/Instagram-@simplefunction.lab-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @simplefunction.lab"/>
+  </a>
+</p>
+
+`Canvas 2D` · `Web Audio` · `Matter.js` &nbsp;|&nbsp; 원본 애니메이션을 프레임 단위(540프레임)로 측정, 박자는 브라우저에서 직접 분석
+
+<br clear="right"/>
+
+---
+
 ### 링크
 
 <p>
   <a href="https://velog.io/@simplefunction">
     <img src="https://img.shields.io/badge/Blog-velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://www.instagram.com/simplefunction.lab/">
+    <img src="https://img.shields.io/badge/Instagram-simplefunction.lab-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:kei97111@gmail.com">
     <img src="https://img.shields.io/badge/Email-kei97111@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
