@@ -13,7 +13,7 @@ Android에서 출발해 React Native 생태계로 범위를 넓혀온 모바일�
 #### 오롯 (Orot) — Slow Journal
 
 > **행복은 강도가 아니라 빈도**라는 가설에서 출발한 사진 저널 앱.
-> 사진 한 장과 짧은 메모로 한 시즌에 100개의 순간을 모으면 시즌이 끝나는 구조입니다. 기획부터 출시까지 직접 만들고, 지금도 사용자 피드백을 반영해 다듬고 있습니다.
+> 사진 한 장과 짧은 메모로 하루의 순간을 남기고, 100개가 모이면 한 챕터가 완성되는 구조입니다. 기획부터 출시까지 직접 만들고, 지금도 사용자 피드백을 반영해 다듬고 있습니다.
 
 <p>
   <a href="https://apps.apple.com/kr/app/orot-slow-journal/id6774419046">
@@ -28,18 +28,6 @@ Android에서 출발해 React Native 생태계로 범위를 넓혀온 모바일�
 </p>
 
 `React Native` · `TypeScript` · `SQLite` &nbsp;|&nbsp; [개인정보처리방침](https://getorot.app/privacy.html)
-
-#### ClearDays — 피부 트러블 추적
-
-> 매일 피부 상태·식단·생활습관을 기록하면 어떤 음식·습관이 트러블에 영향을 주는지 분석해 주는 일일 추적 앱.
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=kr.simplefunction.cleardays">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
-</p>
-
-`React Native` · `TypeScript`
 
 ---
 
