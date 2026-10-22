@@ -35,6 +35,26 @@ Android에서 출발해 React Native 생태계로 범위를 넓혀온 모바일�
 
 > 폰에서 가지고 노는 작은 인터랙티브 작업을 만들어, 한 달에 하나 이상 올립니다.
 
+<a href="https://simplefunction-lab.github.io/moment-select/"><img src="https://simplefunction-lab.github.io/projects/moment-select/poster.jpg" width="220" align="right" alt="Moment Select"/></a>
+
+#### Moment Select
+
+> 수백 장의 사진을 넘기며 남길 사진만 고르는 웹앱입니다. 스튜디오에서 웨딩 원본 1,500장을 받고 30장을 골라야 하는 날을 위해 만들었습니다. 잘 나온 사진부터 보여 주고, 거의 같은 연사는 묶어 주며, 두 사람이 따로 고른 뒤 합칠 수 있습니다.
+> 사진은 브라우저 안에서만 분석하고 어디에도 올리지 않습니다. 고르는 동안 내 선택을 배워 남은 사진의 순서를 다시 맞춥니다.
+
+<p>
+  <a href="https://simplefunction-lab.github.io/moment-select/">
+    <img src="https://img.shields.io/badge/Open-Moment_Select-2F45DE?style=for-the-badge" alt="Open Moment Select"/>
+  </a>
+  <a href="https://github.com/simplefunction-lab/moment-select">
+    <img src="https://img.shields.io/badge/Source-GitHub-1D2622?style=for-the-badge&logo=github&logoColor=white" alt="Moment Select source"/>
+  </a>
+</p>
+
+`Vanilla JS` · `face-api` · `PWA (오프라인)` &nbsp;|&nbsp; 얼굴 선명도·노출·표정 점수 + 선택을 학습하는 로지스틱 회귀, 외부 요청은 CSP로 차단
+
+<br clear="right"/>
+
 <a href="https://groove-skater.vercel.app/"><img src="https://simplefunction-lab.github.io/projects/groove-skater/poster.jpg" width="220" align="right" alt="Groove Skater"/></a>
 
 #### Groove Skater
